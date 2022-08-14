@@ -5,10 +5,10 @@
 }
 * {
     font-size: 15px;
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-	font-family: "Maven Pro", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Maven Pro", sans-serif;
     scrollbar-color: rgb(241, 241, 241) #fff;
     scrollbar-width: thin;
 }
