@@ -15,11 +15,9 @@
 html, body{
     width: auto;
     height: auto;
-    /*  */
-}
-:root{
     scrollbar-color: rgb(241, 241, 241) #fff;
     scrollbar-width: thin;
+    /*  */
 }
 /* width */
 ::-webkit-scrollbar {
