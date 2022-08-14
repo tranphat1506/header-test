@@ -368,7 +368,8 @@ html, body{
     display: inline-flex;
     flex-direction: column;
     gap: 3vh;
-    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: visible ;
 }
 .history-model {
     display: flex;
